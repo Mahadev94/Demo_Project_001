@@ -20,7 +20,7 @@ def get_requirements()->List[str]:
         return requirement_list
 
 setup(
-    name="census_income",
+    name="House_Price",
     version="0.0.1",
     author="Mahadev94",
     author_email="mahadev.mk294@gmail.com",
